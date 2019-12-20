@@ -1,8 +1,8 @@
 # The New Top Password List
 
-Passwords harvested from major leaks until mid 2019. A total of 3.2 Billion passwords sorted and a top list created. Might have some noise, will try to eliminate it.
+Passwords harvested from major leaks until mid-2019. A total of 3.2 Billion passwords sorted and a top list created. Might have some noise, will try to eliminate it.
 
-It is usefull for security testers, penetration testers, can be used with various tools to see password strengh etc.
+It is useful for security testers, penetration testers can be used with various tools to see password strength etc.
 
 ## Top 10 million archive:
 https://thenewpasswordlists.s3.eu-west-2.amazonaws.com/output10mil.txt.zip
