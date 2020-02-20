@@ -24,3 +24,4 @@ curl -L https://thenewpasswordlists.s3.eu-west-2.amazonaws.com/outputAll.txt.zip
 ## Authors
 
 * **Mantas Sasnauskas** - *sorting, unique* - [lexcor](https://github.com/lexcor)
+* **Dr Alexios Mylonas** - [Github](https://github.com/milonis)
